@@ -1,0 +1,14 @@
+complete
+
+instructions:
+clear formatted.txt
+clear sorted.txt
+conda: python test.py -> formatted.txt (22/02 TODO: make more efficient)
+command prompt: sort -> sorted.txt
+conda: python script2.py -> cat.txt
+command prompt: sort -> sortcat.txt
+
+
+20/02/18 TODO:
+do not write lines into formatted if line in formatted - not implemented yet
+DONE

@@ -1,4 +1,4 @@
-# DSO
+# email filtering project
 
 ## data files have not been uploaded for security reasons.
 ## all files uploaded are scripts written by myself. for security reasons, project details cannot be released.
